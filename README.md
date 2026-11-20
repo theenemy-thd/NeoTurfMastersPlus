@@ -31,3 +31,5 @@ Each zip has a README with the base hashes and steps.
 ## Credits
 
 Hacked by TheEnemy. Many thanks to centaur2 for all his time and effort for NeoSD support.
+
+Tested by ThePaw and centaur2.
